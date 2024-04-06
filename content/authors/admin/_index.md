@@ -48,38 +48,40 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Навыки
+    color: '#90EE90'
+    color_border: '#8FBC8F'
     items:
-      - name: Python
+      - name: C++
         description: ''
-        percent: 80
-        icon: python
+        percent: 65
+        icon: C++
         icon_pack: fab
-      - name: Data Science
+      - name: Математика
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 70
+        icon: Math
         icon_pack: fas
-      - name: SQL
+      - name: Трейдинг
         description: ''
         percent: 40
-        icon: database
+        icon: Trading
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+  - name: Хобби
+    color: '#DC143C'
+    color_border: '#f08080'
     items:
-      - name: Hiking
+      - name: Компьютерные игры
         description: ''
-        percent: 60
+        percent: 90
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Прогулки
         description: ''
-        percent: 100
+        percent: 79
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Спорт
         description: ''
         percent: 80
         icon: camera-retro
